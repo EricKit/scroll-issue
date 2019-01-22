@@ -1,5 +1,7 @@
 {
   "name": "updateApp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

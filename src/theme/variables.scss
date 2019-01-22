@@ -3,6 +3,12 @@
 
 /** Ionic CSS Variables **/
 :root {
+  .ios {
+    .scroll-content {
+      -webkit-overflow-scrolling: auto !important;
+    }
+  }
+
   /** primary **/
   --ion-color-primary: #3880ff;
   --ion-color-primary-rgb: 56, 128, 255;
